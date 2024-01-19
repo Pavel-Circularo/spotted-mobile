@@ -1,7 +1,4 @@
 # Spotted
 
-A new Flutter project.
+A mobile app for spotted.autos cars collecting application.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
